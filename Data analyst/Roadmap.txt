@@ -1,0 +1,109 @@
+Week 1
+
+Excel — Beginner to Intermediate
+- Rows, columns, cells, data types
+- Sorting, filtering, tables
+- Remove duplicates and handle missing values
+- SUM, AVERAGE, COUNT, IF
+- SUMIF, COUNTIF, SUMIFS, COUNTIFS
+- XLOOKUP or VLOOKUP
+- Text and date functions
+- Pivot Tables, Pivot Charts, conditional formatting
+Deliverable: Sales analysis report in Excel
+
+
+
+Week 2
+
+SQL — Fundamentals
+- Databases, tables, rows and columns
+- SELECT, DISTINCT, WHERE
+- ORDER BY, LIMIT
+- AND, OR, IN, BETWEEN, LIKE
+- IS NULL, CASE WHEN
+- Aggregate functions: SUM, COUNT, AVG, MIN, MAX
+- GROUP BY and HAVING
+Deliverable: 30–40 basic SQL queries
+
+
+
+Week 3
+
+SQL — Interview Level
+- INNER JOIN, LEFT JOIN, other joins
+- Primary and foreign keys
+- Subqueries and Common Table Expressions (CTEs)
+- UNION and UNION ALL
+- Date and string functions
+- Window functions: ROW_NUMBER, RANK, LAG, LEAD
+- Common Table Expressions and business case questions
+Deliverable: 40–50 additional SQL problems
+
+
+
+Week 4
+
+Power BI — Dashboard Fundamentals
+- Import Excel and CSV data
+- Power Query for data cleaning
+- Data types and data transformation
+- Relationships between tables
+- Data modelling and star schema basics
+- Bar, line, pie, card and table visuals
+- Slicers, filters and drill-downs
+Deliverable: Interactive sales dashboard
+
+
+
+Week 5
+
+Power BI — DAX and Reporting
+- Measures versus calculated columns
+- SUM, COUNTROWS, DISTINCTCOUNT
+- CALCULATE, DIVIDE
+- IF, FILTER
+- Basic time intelligence
+- KPI cards, monthly trends and profitability analysis
+- Dashboard layout and storytelling
+Deliverable: Business-ready Power BI dashboard
+
+
+
+Week 6
+
+Python for Data Analysis + Statistics
+- Pandas: read_csv, head, info, describe
+- Selecting, filtering and sorting data
+- Missing values, duplicates and data types
+- groupby, merge, pivot_table
+- NumPy fundamentals
+- Mean, median, mode, variance and standard deviation
+- Percentages, distributions, correlation and outliers
+Deliverable: Jupyter Notebook with business insights
+
+
+
+Week 7
+
+Industry-Level Capstone Project
+- Work with a realistic, multi-table dataset
+- Clean and validate the data with Python
+- Write analytical SQL queries
+- Build a Power BI dashboard
+- Find revenue, profit and customer-retention trends
+- Write business recommendations
+- Publish code, dashboard screenshots and documentation
+Deliverable: One complete end-to-end project
+
+
+
+Week 8
+
+Resume, Interviews and Job Applications
+- Create a Data Analyst-focused resume
+- Organize GitHub repositories and project documentation
+- Revise Excel, SQL, Power BI and statistics
+- Practice SQL coding and business case questions
+- Prepare project explanations and mock interviews
+- Apply for fresher and junior roles
+Deliverable: Job-ready portfolio and active applications
